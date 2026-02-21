@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working ⚒ an Data transfer protocol, RedGiant it open source, looking for help in refining it and fixing bugs.
+Currently working on a Data transfer protocol, RedGiant is open source, and contributions are highly welcome.
 
 
 ## 🌐 Socials:
