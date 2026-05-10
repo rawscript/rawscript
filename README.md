@@ -20,6 +20,5 @@ Space Data Scientist with an interdisciplinary expertise in Data science, networ
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> How to reach me ...
 
 <!---
-rawscript/rawscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+rawscript/rawscript is a ✨ special ✨ repository because its `README.md` (this file) appears on GitHub profile.
 --->
